@@ -1,0 +1,13 @@
+
+.btn-grey {
+	background-color: rgb(203, 202, 151);
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: black;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+}
+
+.btn-grey:hover{
+	color:white;
+}
